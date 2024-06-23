@@ -35,8 +35,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,html,css,vscode,github,git,r" />
-    <img src="https://skillicons.dev/icons?i=javascript,nodejs,express,typescript,python,django,mysql" /><br>
+    <img src="https://skillicons.dev/icons?i=html,react,css,vscode,github,git" /><br>
+    <img src="https://skillicons.dev/icons?i=js,nodejs,express,typescript,python,django,mysql" /><br>
 </div>
 
 <br/>
@@ -45,7 +45,7 @@
 <div align="center">
   <h2>🐍 My Contributions 🐍</h2>
   <br>
-  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/salesp07/salesp07/output/github-contribution-grid-snake.svg" />
+  <img alt="snake eating my contributions" src="https://raw.githubusercontent.com/Masgarpoor/Masgarpoor/output/github-contribution-grid-snake.svg" />
   
   <br/><br/><br/>
 </div>
